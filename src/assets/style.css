@@ -120,6 +120,7 @@ body {
     /* Darken the color on hover */
     transform: scale(1.05);
     /* Add a slight scale effect on hover */
+    cursor: pointer;
 }
 
 .container-2 {
